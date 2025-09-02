@@ -13,4 +13,4 @@ CONTROLS:
 
 NOTES:
 - Developed using Pygame
-- All assets are original/credited
+- All assets are original
